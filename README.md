@@ -7,7 +7,7 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 ***
 
 ## Education
-- B.Sc. Computer Science 2016-now  Science Islamic Azad University Central Tehran Branch.
+- B.Sc. Computer Science 2016 - present  @Islamic Azad University Central Tehran Branch.
 
 
 
