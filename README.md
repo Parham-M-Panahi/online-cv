@@ -9,7 +9,9 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 
 ## Education
 - B.Sc. Computer Science (2016 - present)  @Islamic Azad University Central Tehran Branch.
-- - stuff
+ - overall average score: 19/20
+- B.Sc. Computer Science (2012 - 2016)  @Alaameh Tabaatabai highschool Abshenaasan branch.
+ - overall average score: 18/20
 
 
 
