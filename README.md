@@ -26,7 +26,7 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 ---
 
 ## Research Interests
-<p>My main areas of interest are **AI** and **Computer Graphics**. I'm actively learning about these two subjects. </p>
+<p>My main areas of interest are Machine learning and Computer Graphics. I'm actively learning about these two subjects and would like to explore ways to use ML in graphics and game development.</p>
 
 
 
