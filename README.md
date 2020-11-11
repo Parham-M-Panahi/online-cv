@@ -1,5 +1,5 @@
 
-## تحصیلات
+# Education
 
 ## Welcome to GitHub Pages
 
