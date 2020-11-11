@@ -25,10 +25,8 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 
 ---
 
-## About me
-<p>blahblah
-  blahblah
-  gfgff</p>
+## Research Interests
+<p>My main areas of interest are **AI** and **Computer Graphics**. I'm actively learning about these two subjects. </p>
 
 
 
