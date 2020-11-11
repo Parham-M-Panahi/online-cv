@@ -12,6 +12,8 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 - **Machine learning** _with tools such as : numpy, pandas, matplotbib, sklearn, keras, etc._ <br>
 - **C/C++** <br>
 - **Computer Graphics** _OpenGL api_
+- **CEH**
+- **Other Tools** _git, linux, SQL, Mathematica_
 
 
 ---
